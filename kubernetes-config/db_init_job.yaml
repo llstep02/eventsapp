@@ -20,4 +20,4 @@ spec:
              name: database-server-mariadb
              key: mariadb-root-password
      restartPolicy: Never
- backoffLimit: 4
+ backoffLimit: 4the 
